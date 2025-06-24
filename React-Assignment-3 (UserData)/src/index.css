@@ -1,0 +1,16 @@
+ /* *
+ {
+  font-family: montserrat;
+ } */
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.row
+{
+
+  height: auto;
+  width: 60%;
+  border: 2px solid gray;
+}
