@@ -1,4 +1,4 @@
-# **React Counter App**
+# **React Counter**
 
 A simple counter built with React using functional components and useState.
 
