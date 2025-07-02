@@ -1,3 +1,22 @@
+# **React Counter App**
+
+A simple counter built with React using functional components and useState.
+
+## **Features**
+
+- Increment, decrement, and reset the counter value.
+- Real-time UI updates with state changes.
+- Clean and beginner-friendly code structure.
+- Basic styling for better user experience.
+
+## **Getting Started**
+
+1. Clone the repo
+2. Run `npm install`
+3. Start with `npm start`
+
+<hr><hr>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
