@@ -1,1 +1,1 @@
-### Vite-React.js
+### Vite-React.JS
